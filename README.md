@@ -1,3 +1,5 @@
+Copied from Neleso since they are no longer provided (so it seems)
+
 Ur-Version auf HMI Version 3.86 (2023) Stable
 - from_v2.99.10-to_v2.99.11.update
 - from_v2.99.11-to_v3.86.0.update
@@ -25,3 +27,8 @@ Für Kunden mit dynamischen lokalen Lastmanagment mit mehr als 3 Wallboxen im Cl
 Ungetestete Software-Versionen zum download:
 - from_v3.166.0-to_v3.187.0.update
 
+Fixes for automatic 1P 3P change, from Vestel EVC04. Confirmed to work on Webasto Unite.
+- from_v3.187.0-to_v3.187.4.update
+- from_v3.187.4-to_v3.187.42.update
+
+** NOTE: ** All uploads / firmware updates are applied on your own risk!
